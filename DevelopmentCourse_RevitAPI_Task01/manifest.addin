@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>Creation Elements</Name>
+		<FullClassName>DevelopmentCourse_RevitAPI_Task01.Creation</FullClassName>
+		<Text>Creating Elements</Text>
+		<Description>This addins will Create elements.</Description>
+		<VisibilityMode>AlwaysVisible </VisibilityMode>
+		<Assembly>DevelopmentCourse_RevitAPI_Task01.dll</Assembly>
+		<AddInId>976BBD2A-384B-4CB0-BE82-00CB06C83B62</AddInId>
+		<VendorId>Amr</VendorId>
+		<VendorDescription>Amr.as.office@gmail.com</VendorDescription>
+	</AddIn>
+
+</RevitAddIns>
